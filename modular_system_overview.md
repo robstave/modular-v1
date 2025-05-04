@@ -1,16 +1,4 @@
 
-
-# Modular V1
-
-Here is a my first attempt at a modular synth system. It is Lunetta-inspired, with ATTINY85-based LFOs and a R-2R DAC. The system is designed to be modular, with banana jacks for patching and 5V logic-level signals. The system is built on 11 vertical panels, each with a specific function. The panels are arranged in a grid, with the lower row numbered from left to right.
-
-[Overview][Modular System Overview](modular_system_overview.md)
-
-![Modular Synth System](IMG_2.jpg)
-
-
-
-
 # 🔧 Modular System Overview (Lunetta-Inspired)
 
 This system is inspired by **Stanley Lunetta’s CMOS-based synth designs**, with additional influences from **CGS circuits** and microcontroller-based modules. It mixes **digital logic**, **analog control**, and **hand-built utility modules** — using banana jacks for patching and a 5V logic ecosystem.
